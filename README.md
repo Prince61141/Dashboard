@@ -24,7 +24,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/dashboard.git
+   git clone https://github.com/Prince61141/Dashboard
    cd dashboard-project
    ```
 
